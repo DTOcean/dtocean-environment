@@ -1,0 +1,9 @@
+Subclass or group,score,generic explanation score,general recommendation,detailed recommendation
+Shallow diving birds,1,"birds diving in shallow depth (up to 5m) are few sensitive to the turbidity in depth","vessel based survey, aerial survey"
+Medium diving birds,2,"Birds diving in medium depth (5-30m) are moderatly  sensitive to the turbidity in depth","vessel based survey, aerial survey"
+Deep diving birds,3,"Birds diving in deep depth (>30m) are moderatly sensitive to the turbidity in depth","vessel based survey, aerial survey"
+Fishes,3,"Fish are moderatly sensitive to the turbidity.","acoustic monitoring, video monitoring, monitoring blade, monitoring by ROV's"
+Elasmobranchs,3,"Fish are moderatly sensitive to the turbidity.","acoustic monitoring, video monitoring, monitoring blade, monitoring by ROV's"
+Hard substrate benthic habitat,3,"cemented to hard rock soil types: high number of different habitats and species","video, photography survey, acoustic passive"
+Soft substrate benthic habitat,2,"cohesion less soil group: few variety of species and habitats, present less variety of species than cemented rock soil","video, photography survey, acoustic passive"
+Particular habitat,4,"Particular habitats","video, photography survey, acoustic passive"

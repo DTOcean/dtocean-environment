@@ -1,0 +1,6 @@
+weighting parameter,score
+noise electrical components 0 dB re 1muPa,0.4
+noise electrical components 90 dB re 1muPa,0.6
+noise electrical components 100 dB re 1muPa,0.8
+noise electrical components 150 dB re 1muPa,0.9
+noise electrical components 200 dB re 1muPa,1.

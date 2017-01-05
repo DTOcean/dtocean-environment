@@ -1,0 +1,6 @@
+weighting parameter,score
+Fishery complete prohibition,1
+Cast net fishing (using gillnets and entangling nets),0.5
+Trawler fishing,0.5
+others,0.5
+no restriction,0.1

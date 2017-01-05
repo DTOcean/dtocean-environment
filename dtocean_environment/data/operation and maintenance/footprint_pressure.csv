@@ -1,0 +1,6 @@
+function result,score,generic explanation score,general recommendation,detailed recommendation
+0.,0.,"score results of a low surface of the seafloor impacted by vessels anchors","Limit the number of vessels and tools in the area, try to limit the anchors footprint of vessels ",
+0.1,2.61,"score results of a moderate surface of the seafloor impacted by vessels","Reduce the number of vessels and tools in the area, try to limit the anchors footprint of vessels",
+0.2,4.12,"score results of a high surface of the seafloor impacted by vessels anchors","decrease imperatively  the number of vessels in the area, try to limit the anchors footprint of vessels and tools","change or adapt the operations and maintenance methods"
+0.3,5.,"score results of a very high surface of the seafloor impacted by vessels anchors ","decrease imperatively  the number of vessels in the area, try to limit the anchors footprint of vessels and tools","change or adapt the operations and maintenance methods"
+1.,5.,"score results of a very high surface of the seafloor impacted by vessels anchors ","decrease imperatively  the number of vessels in the area, try to limit the anchors footprint of vessels and tools","change or adapt the operations and maintenance methods"

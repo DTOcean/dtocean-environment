@@ -1,0 +1,6 @@
+weighting parameter,score
+noise device 0 - 90 dB re 1muPa,0.4
+noise device 90 - 100 dB re 1muPa,0.6
+noise device 100 - 150 dB re 1muPa,0.8
+noise device 150 - 200  dB re 1muPa,0.9
+noise device > 200 dB re 1muPa,1.

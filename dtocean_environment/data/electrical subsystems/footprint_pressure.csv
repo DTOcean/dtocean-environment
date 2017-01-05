@@ -1,0 +1,6 @@
+function result,score,generic explanation score,general recommendation,detailed recommendation
+0.,0.,"score results of a very low surface covered by electrical components on the ground","few pressures, not  increase the surface of the seafloor  covered by the electrical components ",
+0.1,2.61,"score results of a moderate surface covered by electrical components on the ground","decrease the surface of the seafloor  covered by the electrical components",
+0.2,4.12,"score results of a high surface covered by electrical components on the ground","decrease the surface of the seafloor  covered by the electrical components",
+0.3,5.,"score results of a very high surface covered by electrical components on the ground","decrease imperatively the surface of the seafloor  covered by the electrical components",
+1.,5.,"score results of a very high surface covered by electrical components on the ground","decrease imperatively the surface of the seafloor  covered by the electrical components",

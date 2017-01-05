@@ -1,0 +1,7 @@
+weighting parameter,score
+substation,1
+transformer,1
+hub,0.5
+cable not buried,0.5
+
+

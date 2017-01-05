@@ -1,0 +1,6 @@
+weighting parameter,score
+noise vessels or tools 0 - 90 dB re 1muPa,0.4
+noise vessels or tools 90 - 100 dB re 1muPa,0.6
+noise vessels or tools 100 - 150 dB re 1muPa,0.8
+noise vessels or tools 150 - 200 dB re 1muPa,0.9
+noise vessels or tools > 200 dB re 1muPa,1.

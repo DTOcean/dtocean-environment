@@ -1,0 +1,7 @@
+weighting parameter,score
+open water/ devices in parallel,0.5
+sea loch entrance/ devices in parallel,1.
+sounds/ devices in parallel,1.
+open water/ devices in serie,0.25
+sea loch entrances/ devices in serie,0.5
+sounds / devices in serie,0.5

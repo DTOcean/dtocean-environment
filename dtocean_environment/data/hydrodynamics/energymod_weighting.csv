@@ -1,0 +1,13 @@
+weighting parameter,score
+Loose sand,1
+Medium sand,1
+Dense sand,1
+Very soft clay,1
+Soft clay,1
+Firm clay,0.5
+Stiff clay,0.5
+Cemented,0.1
+Soft rock coral,0.1
+Hard glacial till,0.1
+Gravel cobble,0.1
+Hard rock,0.1

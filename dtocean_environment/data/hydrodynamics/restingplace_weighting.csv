@@ -1,0 +1,8 @@
+weighting parameter,score
+No dangerous part of devices,1
+blades,0.1
+turbine shroud,0.1
+oscillating water column with cavity,0.1
+oscillating bodies with translation part,0.1
+oscillating bodies with rotating part,0.1
+flexible sleeve between each box of pelamis,0.1

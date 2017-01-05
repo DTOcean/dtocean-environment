@@ -1,0 +1,6 @@
+function result,score,generic explanation score,general recommendation,detailed recommendation
+0.,0.,"score results of a low number of devices","few pressures, not increase the number of devices",
+0.1,2.61,"score results of a moderate number of devices","decrease the number of devices, increase the space between device",
+0.2,4.12,"score results of a high number of devices","decrease the number of devices, increase the space between device",
+0.3,5.,"score results of a very high number of devices","decrease imperatively the number of devices, increase the space between device",
+1.,5.,"score results of a very high number of devices","decrease imperatively the number of devices, increase the space between device",

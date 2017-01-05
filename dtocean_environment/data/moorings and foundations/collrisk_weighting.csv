@@ -1,0 +1,7 @@
+weighting parameter,score
+catenary&chains,0.8
+catenary&chains&nylon ropes,1.
+catenary&chains&polyester ropes,0.8
+taut,0.4
+catenary&accessory buoy,1.
+taut&accessory buoy,0.8

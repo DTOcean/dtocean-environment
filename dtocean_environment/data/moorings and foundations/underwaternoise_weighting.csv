@@ -1,0 +1,6 @@
+weighting parameter,score
+chafing 0 dB re 1muPa,0.4 
+chafing 90 dB re 1muPa,0.6
+chafing 100 dB re 1muPa,0.8
+chafing 150 dB re 1muPa,0.9
+chafing 200 dB re 1muPa,1.

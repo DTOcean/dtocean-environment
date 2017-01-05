@@ -1,0 +1,6 @@
+function result,score,generic explanation score,general recommendation,detailed recommendation
+0.,0.,"score results of a low number of electric components in the water column. ","few pressures, not  increase the number of electrical components",
+0.1,2.61,"score results of a moderate number of electric components in the water column. ","decrease the number of electric components in the water column. Favour the buried systems",
+0.2,4.12,"score results of a very high number of electric components in the water column.","decrease imperatively the number of electric components in the water column. favor the buried system. ",
+0.3,5.,"score results of a very high number of electric components in the water column.","decrease imperatively the number of electric components in the water column. favor the buried system. ",
+1.,5.,"score results of a very high number of electric components in the water column.","decrease imperatively the number of electric components in the water column. favor the buried system. ",

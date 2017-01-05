@@ -1,0 +1,6 @@
+function result,score,generic explanation score,general recommendation,detailed recommendation
+0.,0.,"score results of  a low number of anchor lines or  foundations in the water column","not  increase the number of anchor lines or the number of foundations",
+0.1,2.61,"score results of  a moderate number of anchor lines or  foundations in the water column ","decrease the number of number of anchor lines or the number of foundations_prefer the taut lines for the mooring design",
+0.2,4.12,"score results of  a high number of anchor lines or  foundations in the water column","decrease imperatively  the number of number of anchor lines or the number of foundations_prefer the taut lines for the mooring design",
+0.3,5.,"score results of  a very high number of anchor lines or  foundations in the water column","decrease imperatively  the number of number of anchor lines or the number of foundations_prefer the taut lines for the mooring design",
+1.,5.,"score results of  a very high number of anchor lines or  foundations in the water column","decrease imperatively  the number of number of anchor lines or the number of foundations_prefer the taut lines for the mooring design",
