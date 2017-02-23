@@ -72,7 +72,7 @@ def package_files(directory):
 extra_files = package_files(os.path.join('dtocean_environment', 'data'))
 extra_files = [os.path.relpath(x, 'dtocean_environment') for x in extra_files]
 
-setup(name='dtocean-environmental',
+setup(name='dtocean-environment',
       version='1.0.0',
       description='Environmental module for the DTOcean tools',
       author='Mathew Topper, Rui Duarte, Imanol Touzon, Jean-Francois Filipot',
