@@ -337,7 +337,7 @@ class OperationMaintenanceStage(Stage):
     @property
     def data_dir_path(self):
         
-        data_path = os.path.join(mod_dir, "data", "operation and maintenance")
+        data_path = os.path.join(mod_dir, "data", "maintenance")
         
         return data_path
     
