@@ -1,32 +1,41 @@
-# Install the Package
+[![appveyor](https://ci.appveyor.com/api/projects/status/github/DTOcean/dtocean-environment?branch=master&svg=true)](https://ci.appveyor.com/project/DTOcean/dtocean-environment)
+[![codecov](https://codecov.io/gh/DTOcean/dtocean-environment/branch/master/graph/badge.svg)](https://codecov.io/gh/DTOcean/dtocean-environment)
+[![Lintly](https://lintly.com/gh/DTOcean/dtocean-environment/badge.svg)](https://lintly.com/gh/DTOcean/dtocean-environment/)
+[![release](https://img.shields.io/github/release/DTOcean/dtocean-environment.svg)](https://github.com/DTOcean/dtocean-environment/releases/latest)
+
+# dtocean-environment
+
+Environmental module for the DTOcean tools
+
+## Installation of the Package
 
 It is assumed that the Anaconda Python 2.7 distribution is installed on a
 Windows machine in C:\Anaconda.
 
 Below ">" means type it into a cmd window.
 
-## Set up environment (only once)
+### Set up environment (only once)
 > conda create -n dtocean pip pytest ipython-notebook
 
-## Activate the environment
+### Activate the environment
 > C:\Anaconda\Scripts\activate.bat dtocean
 
-## Install dependencies (only once unless notified)
+### Install dependencies (only once unless notified)
 > conda install numpy pandas
 
-## Install the environmental package
+### Install the environmental package
 > cd \path\to\the\package
 > winmake.bat install
 
-# Testing the Package
+## Testing the Package
 
 There is a test suite available as an ipython notebook in the notebooks folder
 of the source code.
 
-## Start ipython notebook
+### Start ipython notebook
 > ipython notebook
 
-## Load the notebook
+### Load the notebook
 
 Using the web interface, click "Upload" navigate to the notebooks folder and
 select the "DTOcean Environmental Module Test.ipynb" file. Click "Upload" again

@@ -73,7 +73,7 @@ extra_files = package_files(os.path.join('dtocean_environment', 'data'))
 extra_files = [os.path.relpath(x, 'dtocean_environment') for x in extra_files]
 
 setup(name='dtocean-environment',
-      version='1.0.0',
+      version='1.1.dev0',
       description='Environmental module for the DTOcean tools',
       author='Mathew Topper, Rui Duarte, Imanol Touzon, Jean-Francois Filipot',
       author_email=('damm_horse@yahoo.co.uk, '
@@ -90,8 +90,7 @@ setup(name='dtocean-environment',
                         'shapely',
                         ],
       zip_safe=False, # Important for reading data files
-      tests_require=['pytest',
-                     'numpy'],
+      tests_require=['pytest'],
       cmdclass = {'test': PyTest,
                   'cleanpyc': CleanPyc,
                   },
