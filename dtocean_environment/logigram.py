@@ -44,6 +44,7 @@ import numpy as np
 from scipy.interpolate import interp1d
 from polite.abc import abstractclassmethod
 
+
 class Score(object):
     
     __metaclass__ = abc.ABCMeta
@@ -105,6 +106,7 @@ class Score(object):
         result = self.get_column("detailed recommendation", idx)
         
         return result
+
 
 class PressureScore(Score):
     
@@ -237,7 +239,6 @@ class Assessment(object):
     def get_recommendations(self):
         
         return self.score_history["Pressure Recommendations"]
-
 
 
 class Logigram(object):

@@ -87,6 +87,7 @@ setup(name='dtocean-environment',
       install_requires=['numpy',
                         'pandas',
                         'polite>=0.9',
+                        'scipy',
                         'shapely',
                         ],
       zip_safe=False, # Important for reading data files
