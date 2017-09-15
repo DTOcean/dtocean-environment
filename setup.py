@@ -76,7 +76,7 @@ setup(name='dtocean-environment',
       version='1.1.dev0',
       description='Environmental module for the DTOcean tools',
       author='Mathew Topper, Rui Duarte, Imanol Touzon, Jean-Francois Filipot',
-      author_email=('damm_horse@yahoo.co.uk, '
+      author_email=('dataonlygreater@gmail.com, '
                     'Rui.Duarte@france-energies-marines.org, '
                     'imanol.touzon@tecnalia.com, '
                     'jean.francois.filipot@france-energies-marines.org'),
