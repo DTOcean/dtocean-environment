@@ -220,7 +220,7 @@ class Stage(object):
         
         global_eis = {}
         
-        if negative_impacts.size:
+        if negative_impacts.size and ~np.isnan(negative_impacts).all():
             global_eis["Negative Impact"] = np.nanmean(negative_impacts)
             global_eis["Max Negative Impact"] = np.nanmin(negative_impacts)
             global_eis["Min Negative Impact"] = np.nanmax(negative_impacts)
@@ -229,7 +229,7 @@ class Stage(object):
             global_eis["Max Negative Impact"] = np.nan
             global_eis["Min Negative Impact"] = np.nan
 
-        if positive_impacts.size:
+        if positive_impacts.size and ~np.isnan(positive_impacts).all():
             global_eis["Positive Impact"] = np.nanmean(positive_impacts)
             global_eis["Max Positive Impact"] = np.nanmax(positive_impacts)
             global_eis["Min Positive Impact"] = np.nanmin(positive_impacts)
