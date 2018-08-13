@@ -491,8 +491,7 @@ class Logigram(object):
         new_columns = OrderedDict(column_order)
                        
         seasonal_receptors = seasonal_receptors.rename(columns=new_columns)
-        seasonal_receptors = seasonal_receptors.reindex_axis(
-                                                        new_columns.values(),
+        seasonal_receptors = seasonal_receptors.reindex(new_columns.values(),
                                                         axis=1)
         sensitivity_series = pd.Series(receptor_normal_scores)
         
