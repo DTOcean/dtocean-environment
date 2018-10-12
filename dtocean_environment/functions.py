@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 
-#    Copyright (C) 2016  Mathew Topper, Rui Duarte, Imanol Touzon,
-#                        Jean-Francois Filipot
+#    Copyright (C) 2016 Mathew Topper, Imanol Touzon, Jean-Francois Filipot
 #
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU General Public License as published by
@@ -21,12 +20,12 @@ Created on Tue Mar 24 17:31:02 2015
 
 Functions created to compute the environmental impact of both wave energy and 
 tidal energy farms.
-There is an independent list of functions for wave farms and other independent
-list of functions for tidal farms.
 
-@author: Imanol TouzÃ³n. Tecnalia R&I 29-09-2015
-         Jean-Francois Filipot, FEM
-         Rui Duarte, FEM
+.. moduleauthor:: Mathew Topper <mathew.topper@dataonlygreater.com>
+.. moduleauthor:: Imanol Touzon <imanol.touzon@tecnalia.com>
+.. moduleauthor:: Rui Duarte <rui.duarte@france-energies-marines.org>
+.. moduleauthor:: Jean-Francois Filipot
+                  <jean.francois.filipot@france-energies-marines.org>
 """
 from __future__ import division
 

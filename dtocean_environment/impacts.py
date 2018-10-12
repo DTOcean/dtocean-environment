@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 
-#    Copyright (C) 2016  Mathew Topper, Rui Duarte, Imanol Touzon,
-#                        Jean-Francois Filipot
+#    Copyright (C) 2016 Mathew Topper, Rui Duarte, Imanol Touzon
 #
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU General Public License as published by
@@ -20,15 +19,14 @@
 """
 Created on Wed Jul 15 11:44:29 2015
 
-@author: Mathew Topper Tecnalia R&I
-         Imanol Touzón. Tecnalia R&I
-         Rui Duarte, FEM
-
+.. moduleauthor:: Mathew Topper <mathew.topper@dataonlygreater.com>
+.. moduleauthor:: Imanol Touzon <imanol.touzon@tecnalia.com>
+.. moduleauthor:: Rui Duarte <rui.duarte@france-energies-marines.org>
 """
 
 from .functions import (footprint,
                         coll_risk,
-                        coll_risk_vessel,                        
+                        coll_risk_vessel,
                         chempoll_risk,
                         turbidity,
                         undwater_noise,
@@ -41,6 +39,7 @@ from .functions import (footprint,
                         restplace)
                         
 from .logigram import Logigram
+
 
 class EnergyModification(Logigram):
     

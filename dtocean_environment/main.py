@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
-#    Copyright (C) 2016  Mathew Topper, Rui Duarte, Imanol Touzon,
-#                        Jean-Francois Filipot
+#    Copyright (C) 2016 Mathew Topper, Rui Duarte, Imanol Touzon
+#    Copyright (C) 2017-2018 Mathew Topper
 #
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU General Public License as published by
@@ -20,9 +20,9 @@
 """
 Created on Mon Jul 20 11:33:58 2015
 
-@author: Mathew Topper Tecnalia R&I
-         Imanol Touzón. Tecnalia R&I
-         Rui Duarte, FEM
+.. moduleauthor:: Mathew Topper <mathew.topper@dataonlygreater.com>
+.. moduleauthor:: Imanol Touzon <imanol.touzon@tecnalia.com>
+.. moduleauthor:: Rui Duarte <rui.duarte@france-energies-marines.org>
 """
 
 import os
@@ -46,10 +46,11 @@ from .impacts import (EnergyModification,
                      ReefEffect,
                      ReserveEffect,
                      RestingPlace)
-                      
+
 mod_path = os.path.realpath(__file__)
 mod_dir = os.path.dirname(mod_path)
-                      
+
+
 class Stage(object):
     
     __metaclass__ = abc.ABCMeta
