@@ -9,14 +9,19 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ### Added
 
-- Add change log.
-- Added CI files
+- Added change log and CI files.
 
 ### Changed
 
 - Changed name of "operation and maintenance" data folder to "maintenance" to
   avoid bug in constructor when unzipping file paths containing exactly 100
   characters.
+
+### Fixed
+
+- Fixed typos in data (csv) files.
+- Fixed all NaNs going to numpy functions (which issue warnings).
+- Fixed use of depreciated pandas.reindex_axis.
 
 ## [1.0.0] - 2017-01-05
 
@@ -27,4 +32,3 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ### Changed
 
 - Changed package name from dtocean-environmental to dtocean-environment.
-
