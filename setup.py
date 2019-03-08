@@ -73,13 +73,10 @@ extra_files = package_files(os.path.join('dtocean_environment', 'data'))
 extra_files = [os.path.relpath(x, 'dtocean_environment') for x in extra_files]
 
 setup(name='dtocean-environment',
-      version='1.1.dev0',
+      version='2.0.0',
       description='Environmental module for the DTOcean tools',
-      author='Mathew Topper, Rui Duarte, Imanol Touzon, Jean-Francois Filipot',
-      author_email=('dataonlygreater@gmail.com, '
-                    'Rui.Duarte@france-energies-marines.org, '
-                    'imanol.touzon@tecnalia.com, '
-                    'jean.francois.filipot@france-energies-marines.org'),
+      maintainer='Mathew Topper',
+      maintainer_email='mathew.topper@dataonlygreater.com',
       license="GPLv3",
       packages=find_packages(),
       package_data={'dtocean_environment': extra_files
