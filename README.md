@@ -1,6 +1,6 @@
 [![appveyor](https://ci.appveyor.com/api/projects/status/github/DTOcean/dtocean-environment?branch=master&svg=true)](https://ci.appveyor.com/project/DTOcean/dtocean-environment)
 [![codecov](https://codecov.io/gh/DTOcean/dtocean-environment/branch/master/graph/badge.svg)](https://codecov.io/gh/DTOcean/dtocean-environment)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/bb34506cc82f4df883178a6e64619eaf)](https://www.codacy.com/project/H0R5E/dtocean-environment/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=DTOcean/dtocean-environment&amp;utm_campaign=Badge_Grade_Dashboard&amp;branchId=8410911)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/4cb4990e786a4470bf5531318d5bead0)](https://www.codacy.com/project/H0R5E/dtocean-environment/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=DTOcean/dtocean-environment&amp;utm_campaign=Badge_Grade_Dashboard&amp;branchId=11743625)
 [![release](https://img.shields.io/github/release/DTOcean/dtocean-environment.svg)](https://github.com/DTOcean/dtocean-environment/releases/latest)
 
 # DTOcean Environmental Module
